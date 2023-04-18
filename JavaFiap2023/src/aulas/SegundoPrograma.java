@@ -1,4 +1,4 @@
-package Logica.aulas;
+package aulas;
 
 import java.util.Scanner;
 
@@ -12,10 +12,14 @@ public class SegundoPrograma {
 	String nome = entrada.nextLine();
 	
 	System.out.println("Bem Vindo, " + nome);
-	
+
 	System.out.println("Digite sua idade: ");
 	
 	System.out.println("Sua idade é: " + entrada.nextLine());
+	
+	entrada.close();
+	
 	}
+	
 
 }

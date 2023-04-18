@@ -1,4 +1,4 @@
-package Logica.aulas;
+package aulas;
 
 public class PrimeiroPrograma {
 

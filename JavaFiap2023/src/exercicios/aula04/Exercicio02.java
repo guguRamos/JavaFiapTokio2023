@@ -12,6 +12,8 @@ public class Exercicio02 {
 		
 		System.out.println(nome);
 		
+		entrada.close();
+		
 	}
 
 }

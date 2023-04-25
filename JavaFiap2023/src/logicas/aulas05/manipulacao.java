@@ -26,26 +26,11 @@ public class manipulacao {
 
 		String preco = entrada.nextLine();
 
-		float precoFloat = Float.parse();
+		float precoFloat = Float.parseflo();
 
 		System.out.println(precoFloat);
 
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -10,7 +10,7 @@ public class Exercicio04 {
 
 		mediaFinal = (A + B) / 2;
 		
-		System.out.println(mediaFinal);
+		System.out.println("A media ponderado do aluno é: " + mediaFinal);
 
 	}
 

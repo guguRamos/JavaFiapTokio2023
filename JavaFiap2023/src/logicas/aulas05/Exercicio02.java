@@ -5,7 +5,7 @@ public class Exercicio02 {
 	public static void main(String[] args) {
 
 		int num1 = 10;
-		float num2 = 20.0f;
+		float num2 = 2.0f;
 		double num3 = 30;
 
 		System.out.println(num1);

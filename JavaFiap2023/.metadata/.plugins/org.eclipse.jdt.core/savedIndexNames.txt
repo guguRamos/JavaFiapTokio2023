@@ -1,4 +1,2 @@
 INDEX VERSION 1.131+D:\git\JavaFiapTokio2023\JavaFiap2023\.metadata\.plugins\org.eclipse.jdt.core
-1509799344.index
 1865797976.index
-2152374504.index

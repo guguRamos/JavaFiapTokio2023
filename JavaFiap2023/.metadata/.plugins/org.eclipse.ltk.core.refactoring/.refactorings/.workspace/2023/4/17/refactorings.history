@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;JavaFiapTokio2023&apos;" deleteContents="false" description="Delete resource &apos;JavaFiapTokio2023&apos;" element1="/JavaFiapTokio2023" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1682617279551"/>&#x0A;<refactoring comment="Delete resource &apos;JavaFiap2023&apos;" deleteContents="true" description="Delete resource &apos;JavaFiap2023&apos;" element1="/JavaFiap2023" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1682617288931"/>
+</session>

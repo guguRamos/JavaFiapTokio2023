@@ -1,9 +1,11 @@
 applyBackground=false
 approved.defs.file.last.changed.time=1649720987000
 configurationInstallLocation=/C\:/Opensource/EclipseEE/eclipse/
+ct.upsell.display.after=1682876279643
 eclipse.preferences.version=1
 iconcolormode=primary
-last.download.attempt.time=1682443007138
-lastConfiguration=1655318877942
-newinstall=true
+last.download.attempt.time=1682617590060
+lastConfiguration=1682617584321
+newinstall=false
+showWelcomeDialog=false
 workbench.theme=Dark Gray
